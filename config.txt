@@ -1,6 +1,6 @@
 token=NTg4MzMyOTU0MzMwMzMzMTg0.XQDl9g.gjOq_b6WzUYoIeDOVUn10Im5P9k
 owner=401024915261751298
 prefix=`
-game=Type `help
+game=Type `sex
 stayinchannel=true
 songinstatus=true
